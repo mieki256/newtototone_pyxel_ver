@@ -13,9 +13,9 @@ Pyxel is a retro game engine for Python.
 Screenshot
 ----------
 
-!{Screenshot 1](screenshots/newtototone_pyxel_ver_ss01.png)
+![Screenshot 1](screenshots/newtototone_pyxel_ver_ss01.png)
 
-!{Screenshot 2](screenshots/newtototone_pyxel_ver_ss02.gif)
+![Screenshot 2](screenshots/newtototone_pyxel_ver_ss02.gif)
 
 Requirement
 -----------
